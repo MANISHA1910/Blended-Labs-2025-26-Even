@@ -7,6 +7,12 @@ Author : your name   Reg no : yours   Date :
 
 ---
 
+Author : MANISHA M
+
+Reg no : 212224220061
+
+Date : 22.05.2026
+
 ## Objective
 
 The objective of this lab is to understand how to design a scalable and highly available architecture on AWS using Auto Scaling and Elastic Load Balancing. This experiment focuses on distributing incoming traffic across multiple EC2 instances, automatically scaling resources based on demand, and validating fault tolerance.
@@ -64,13 +70,13 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ---
 
-## Workflow (To be filled by Student)
 
-Describe step-by-step how you performed this experiment in your own words.
-
----
 
 ## Output Screenshots 
+
+<img width="1280" height="800" alt="564624246-ebc5fe9a-540b-42c3-940b-774f62efa94d" src="https://github.com/user-attachments/assets/2db5524e-7628-4a01-8b4c-349105914d2c" />
+<img width="1280" height="800" alt="564624096-9b24c2d7-07f8-4fb5-8caa-67eb39b2a8f9" src="https://github.com/user-attachments/assets/6e7fd7b6-cdfe-4a3f-b185-e2b66c3a38bf" />
+
 
 
 ---
